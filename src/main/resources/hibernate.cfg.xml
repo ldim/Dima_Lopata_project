@@ -1,0 +1,7 @@
+<hibernate-configuration>
+    <session-factory>
+        <mapping class="com.heavy.app.domain.User"/>
+        <!-- DB schema will be updated if needed -->
+    <!-- <property name="hbm2ddl.auto">update</property> -->
+    </session-factory>
+</hibernate-configuration>

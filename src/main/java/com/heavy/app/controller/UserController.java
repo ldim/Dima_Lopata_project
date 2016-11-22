@@ -13,9 +13,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- *   User: DimaL
- Date: 15.11.16
- Time: 16:27
+ * Created by dimas on 17.11.16.
  */
 @Controller
 public class UserController {

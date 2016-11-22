@@ -7,9 +7,7 @@ import org.springframework.validation.ValidationUtils;
 import org.springframework.validation.Validator;
 
 /**
- *  User: DimaL
- Date: 15.11.16
- Time: 16:27
+ * Created by dimas on 17.11.16.
  */
 @Component
 public class UserValidator implements Validator {

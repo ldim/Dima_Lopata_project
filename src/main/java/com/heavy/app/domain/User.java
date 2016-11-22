@@ -4,9 +4,7 @@ import javax.persistence.*;
 import java.sql.Timestamp;
 
 /**
- *   User: DimaL
- Date: 15.11.16
- Time: 16:27
+ * Created by dimas on 17.11.16.
  */
 
 @Entity
